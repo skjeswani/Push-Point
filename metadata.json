@@ -1,0 +1,5 @@
+{
+  "name": "Prod Point",
+  "description": "A peer-to-peer project feedback platform where users review others' projects to earn credits, which can then be used to view feedback on their own submitted projects.",
+  "requestFramePermissions": []
+}
