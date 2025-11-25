@@ -14,7 +14,7 @@ const Header: React.FC<HeaderProps> = ({ userCredits, onSignOut }) => {
           <div className="flex items-center space-x-3">
             <LogoIcon className="h-8 w-8 text-brand-accent"/>
             <h1 className="text-2xl font-bold text-brand-text-primary tracking-tight">
-              Prod Point
+              PushPoint
             </h1>
           </div>
           <div className="flex items-center space-x-4">

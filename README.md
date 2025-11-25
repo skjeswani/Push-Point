@@ -1,11 +1,10 @@
+# PushPoint: Peer-to-Peer Project Feedback Platform
 
-# Prod Point: Peer-to-Peer Project Feedback Platform
-
-Prod Point is a web application designed to facilitate a fair and insightful peer-to-peer review system for software projects. It operates on a "give-to-get" model: to receive feedback on your own projects, you must first contribute by reviewing the work of others.
+PushPoint is a web application designed to facilitate a fair and insightful peer-to-peer review system for software projects. It operates on a "give-to-get" model: to receive feedback on your own projects, you must first contribute by reviewing the work of others.
 
 ## The Core Idea
 
-The platform addresses a common challenge for developers: getting high-quality, constructive feedback on their projects. Prod Point standardizes the review process and incentivizes thoughtful feedback through a simple credit-based economy.
+The platform addresses a common challenge for developers: getting high-quality, constructive feedback on their projects. PushPoint standardizes the review process and incentivizes thoughtful feedback through a simple credit-based economy.
 
 - **Submit Your Project**: Share a link to your public GitHub repository.
 - **Earn Credits**: Browse the "Review Queue" and submit a detailed review for another user's project using our structured feedback form. Each completed review earns you one credit.

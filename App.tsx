@@ -147,7 +147,7 @@ const App: React.FC = () => {
     return (
       <div className="min-h-screen bg-brand-primary flex flex-col items-center justify-center">
           <LoadingSpinner className="h-12 w-12 text-brand-accent"/>
-          <p className="mt-4 text-brand-text-secondary">Loading Prod Point...</p>
+          <p className="mt-4 text-brand-text-secondary">Loading PushPoint...</p>
       </div>
     );
   }
@@ -155,7 +155,7 @@ const App: React.FC = () => {
   if (!user) {
     return (
        <div className="min-h-screen bg-brand-primary flex flex-col items-center justify-center text-center p-4">
-        <h1 className="text-4xl font-bold text-brand-text-primary mb-2">Welcome to Prod Point</h1>
+        <h1 className="text-4xl font-bold text-brand-text-primary mb-2">Welcome to PushPoint</h1>
         <p className="text-lg text-brand-text-secondary mb-8 max-w-xl">Get high-quality, peer-to-peer feedback on your projects. Review others' work to earn credits and unlock reviews for your own.</p>
         <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
           <button
